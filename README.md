@@ -29,7 +29,8 @@ This repo contains Python code for a Bayesian Inference model to predict the str
 
 ## Authors
 
-- Lindsay Morris
+Lindsay Morris
+- Connect on LinkedIn: [![LinkedIn](https://shields.io)](www.linkedin.com/in/lindsay-g-morris)
 - Connect on LinkedIn: [LinkedIn](www.linkedin.com/in/lindsay-g-morris)
 
 ## Version History
