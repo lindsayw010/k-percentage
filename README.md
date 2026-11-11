@@ -1,4 +1,4 @@
-# MLB Strikeout Percentage Model
+# MLB Strikeout Percentage Bayesian Model
 
 ## Description
 
