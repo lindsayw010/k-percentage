@@ -1,6 +1,4 @@
-# Project Title
-
-MLB Strikeout Percentage Model
+# MLB Strikeout Percentage Model
 
 ## Description
 
