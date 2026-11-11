@@ -12,12 +12,12 @@ This repo contains Python code for a Bayesian Inference model to predict the str
 
 * Jupyter Notebook
 * Python 3.11 or higher
-* numpy
-* pandas as pd
-* scikit-learn
-* matplotlib
-* pymc
-* arviz
+   * numpy
+   * pandas as pd
+   * scikit-learn
+   * matplotlib
+   * pymc
+   * arviz
 
 ### Installing
 
@@ -30,7 +30,10 @@ This repo contains Python code for a Bayesian Inference model to predict the str
 ## Authors
 
 Lindsay Morris
-- Connect on LinkedIn: [LinkedIn](www.linkedin.com/in/lindsay-g-morris)
+Connect on LinkedIn: [LinkedIn](www.linkedin.com/in/lindsay-g-morris)
+
+* **Dominique Pizzie** - *Initial work* - [DomPizzie](https://github.com/DomPizzie)
+* **Jane Doe** - *Documentation & Testing* - [janedoe](https://github.com)
 
 ## Version History
 
