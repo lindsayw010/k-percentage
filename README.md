@@ -4,7 +4,7 @@ MLB Strikeout Percentage Model
 
 ## Description
 
-This repository contains Python code for a Bayesian Inference model to predict the strikeout percentage of MLB pitchers. The training dataset contains pitch data from 2021 through 2025. The goal is to estimate the strrikeout percentage of pitchers in the MLB for the 2025 season, as well as begin to explore how this model can be interpolated to estimate k percentages into the future.   
+This repository contains Python code for a Bayesian Inference model to predict the strikeout percentage of MLB pitchers. The training dataset contains pitch data from 2021 through 2025. The goal is to estimate the strrikeout percentage of pitchers in the MLB for the 2025 season.   
 
 ## Getting Started
 
